@@ -13,10 +13,7 @@ struct Sentence {
     wchar_t *str;
     int size;
     int len;
-    wchar_t **arrofwords;
-    wchar_t *arrofseps;
     int countwords;
-    int countseps;
 };
 
 
